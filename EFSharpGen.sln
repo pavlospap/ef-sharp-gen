@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFSharpGen.Console", "EFSharpGen.Console\EFSharpGen.Console.csproj", "{F821152A-AC28-471C-92C1-834D83CAC2B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFSharpGen", "EFSharpGen\EFSharpGen.csproj", "{7236516D-8116-4B66-B32A-3CB0ADAB5CE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F821152A-AC28-471C-92C1-834D83CAC2B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F821152A-AC28-471C-92C1-834D83CAC2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F821152A-AC28-471C-92C1-834D83CAC2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F821152A-AC28-471C-92C1-834D83CAC2B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7236516D-8116-4B66-B32A-3CB0ADAB5CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7236516D-8116-4B66-B32A-3CB0ADAB5CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7236516D-8116-4B66-B32A-3CB0ADAB5CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7236516D-8116-4B66-B32A-3CB0ADAB5CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E8913C9-1EBF-407C-B61C-623A496BC271}
+	EndGlobalSection
+EndGlobal
